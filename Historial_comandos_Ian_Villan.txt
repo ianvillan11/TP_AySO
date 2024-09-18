@@ -1,0 +1,174 @@
+whoami
+pwd
+man man
+ls
+cd repogit
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls
+ls -la
+cat .ssh
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls
+cat id_ed25519.pub
+clip
+clip 
+cd .ssh
+ls -la
+clip > id_ed25519.pub
+cat id_ed25519.pub
+cd ..
+ls -la
+cd .ssh
+cat id_ed25519.pub
+cd .ssh
+sudo cat id_ed25519-pub
+sudo cat id_ed25519.pub
+cd ..
+ssh-keygen -t ed25519
+cd .ssh
+cat id_ed25519.pub
+history
+cd ..
+ls
+cd repogit
+ls
+git clone git@github.com:ianvillan11/Villan.Vagrant.git
+ls
+cd Villan.Vagrant
+ls
+history > historial.txt
+ls
+git status
+git add .
+git status
+git commit -m "primer commit"
+git config --global usar.email "ianvillan4@gmail.com"
+git config --global user.name "ianvillan11"
+git commit -m "primer commit"
+git push
+vagrant halt
+pwd
+ls -la
+ls -l
+cd
+cd T
+pwd
+ls -l
+[200~cat /etc/os-release
+~
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep "https://www.ubuntu.com/ /etc/os-release
+whoami
+whoami
+ls -la
+cd .ssh
+ls
+cat id_ed25519.pub
+sudo cat id_ed25519.pub
+cd ..
+ssh-keygen -t ed25519
+cd .ssh
+cat id_ed25519.pub
+cd ..
+ssh-keygent -t ed25519
+ssh-keygen -t ed25519
+cd .ssh
+cat id_ed25519.pub
+cd ..
+ssh-keygen
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:ianvillan11/TP_AySO.git
+cd TP_AySO/
+PWD
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL  /etc/os-release
+grep "https://www.ubuntu.com /etc/os-release
+cd ..
+vagrant halt
+history
+clear
+history
+history clear
+history clear 100
+grep https://www.ubuntu.com /etc/os-release
+grep https://www.ubuntu.com/legal/terms-and-policies/privacy-policy Home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+cd
+cd repogit
+cd TP_AySO/
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git add .
+git config --global user.email "ianvillan4@gmail.com"
+git config --global user.name "ianvillan11"
+git commit -m"ADD:agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+git status
+grep "model name" /proc/cpuinfo | head -n1 >> /ruta/al/archivo
+grep "model name" /proc/cpuinfo | head -n1 >> 
+grep "model name" /proc/cpuinfo | head -n1 >> /ruta/al/archivo
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add .
+git commit -m "feat:Añadiendo informacion de CPU"
+git push
+grep -v "nologin" /etc/passwd | head -n10 | sort -t: -k7 > lista_ordenada
+git add .
+git commit -m "ADD:Listado de usuarios ordenada"
+git push
+echo "tcpdump" > comando_dump_net
+echo "Ejecutar: tcpdump -i <interfaz> -w archivo.pcap" >> comando_dump_net
+echo "Ejecutar: tcpdump -i <eth0> -w archivo.pcap" >> comando_dump_net
+git add comando_dump_net
+git commit -m "ADD: comando para capturar y analizar el trafico de red"
+cat <<EOL >> README.md
+Alumno: <Ian Villan>
+División: <Division 113>
+Turno: <Mañana>
+EOL
+
+git commit -m "UPDATE: Añadiendo información del alumno"
+git add .
+git commit -m "UPDATE: Añadiendo información del alumno"
+git push
+cat <<EOL >> README.md
+Alumno: Ian Villan
+División: Division 113
+Turno: Mañana
+EOL
+
+git add README.md
+git commit -m "UPDATE: Añadiendo información del alumno"
+git push
+git commit -m "UPDATE: Añadiendo información del alumno."
+git push
+git pull origin main
+git push origin main
+git pull --rebase origin main
+cat <<EOL >> README.md
+Alumno: Ian Villan
+División: 113
+Turno: Mañana
+EOL
+
+git add README.md
+git commit -m"UPDATE: añadiendo informaciondel alumno"
+git push
+nano README.md
+git add README.md
+git commit -m "UPDATE: Corrigiendo información en README"
+git push
+history -a
