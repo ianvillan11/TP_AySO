@@ -1,3 +1,2 @@
 tcpdump
-Ejecutar: tcpdump -i <interfaz> -w archivo.pcap
 Ejecutar: tcpdump -i <eth0> -w archivo.pcap
